@@ -1,3 +1,3 @@
 
-const name="Jocker";
+const name="Doom";
 console.log("Hello " + name);
